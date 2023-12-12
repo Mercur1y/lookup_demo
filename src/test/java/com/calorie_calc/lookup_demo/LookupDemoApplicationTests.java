@@ -1,4 +1,4 @@
-package com.pet_projects.lookup_demo;
+package com.calorie_calc.lookup_demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
